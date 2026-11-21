@@ -1,0 +1,73 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nvkzz4cmg2wky984" x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="CZ" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-id="EUROSPORT.cz" CUID="25",Eurosport Czechia
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://i.imgur.com/YxO60B1.png" tvg-id="YachtingTV.cz" CUID="100",Yachting TV
+https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://logo.m3uassets.com/hahatv.png" tvg-id="HAHATV.sk" CUID="34",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBCEarthCZ.cz" CUID="9",BBC Earth Czechia
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://i.imgur.com/F5Uosum.png" tvg-id="SPEKTRUM.cz" CUID="77",Spektrum
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://logo.m3uassets.com/animalplanet.png" tvg-id="ANIMALPLANET.cz" CUID="2",Animal Planet
+http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://logo.m3uassets.com/discoverchannel.png" tvg-id="DISCOVERYCHANNEL.cz" CUID="19",Discovery Channel
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://web02.antik.sk/assets/img/channels/615631fb7d93832cdf7a2d85be336c4e.svg" tvg-id="DVTVExtra.cz" CUID="23",DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://logo.m3uassets.com/discoveryinvestigation.png" tvg-id="CRIMEandINVESTIGATION.cz" CUID="41",Investigation Discovery
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://web02.antik.sk/assets/img/channels/0d824abdc4c21ab5d35cf946847cedee.svg" tvg-id="KVIFFTV.cz" CUID="45",KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://logo.m3uassets.com/tlc.png" tvg-id="TLC.cz" CUID="85",TLC
+http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="CZ" tvg-logo="https://logo.m3uassets.com/thetravelchannel.png" tvg-id="TRAVELCHANNEL.cz" CUID="86",Travel Channel
+http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png" tvg-id="",Now 90s00s (1080p)
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/OFhQQCD.png" tvg-id="",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/WsPlKJJ.png" tvg-id="",Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" tvg-id="",Russian MusicBox (576p)
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/9qJkxV9.png" tvg-id="",Live Music Channel HD (1080p)
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-id="",First Music Channel (1080p)
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/uMw3kks.png" tvg-id="",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/sIW9oR4.png" tvg-id="",BRIDGE Hits (576p)
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/EazL8w7.png" tvg-id="",BRIDGE Deluxe HD (576p)
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qYObfrG.png" tvg-id="",BRIDGE (576p)
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/75qUdR7.png" tvg-id="",RTL 102.5 TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/JA1OPrz.png" tvg-id="",RTL 102.5 Disco (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P0zsi6I.png" tvg-id="",RTL 102.5 Caliente (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/K2xLMin.png" tvg-id="",Radio Zeta (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" tvg-id="",m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ccdwsWj.png" tvg-id="",Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-id="",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-id="",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ab6p2SW.png" tvg-id="",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107103_dark_360w_270h.png" tvg-id="",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/musicbox_classic.png" tvg-id="MusicBoxClassic.cz" CUID="48",Music Box Classic
+http://88.212.15.50/live/mb_classic/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/musicbox_dance.png" tvg-id="MusicBoxDance.cz" CUID="49",Music Box Dance
+http://88.212.15.50/live/mb_dance/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/musicbox_hits.png" tvg-id="MusicBoxHits.cz" CUID="50",Music Box Hits
+http://88.212.15.50/live/mb_hits/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00324R10.png_white_360w_270h.png" tvg-id="MusicBoxSexy.cz" CUID="51",Music Box Sexy
+http://88.212.15.50/live/mb_sexy/index.m3u8
